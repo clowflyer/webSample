@@ -1,10 +1,15 @@
-# 網頁名稱 / 專案名稱
+# 網頁名稱 / 專案名稱~
 
 ## 🔍 專案介紹
 這是一個展示我的個人介紹與爬蟲成果的網頁...
 
 ## 🌐 網站連結
 👉 [點我前往](https://clowflyer.github.io/webSample/prac01_firstWeb.html)
+
+```
+import BeautifulSoup4 as bs4
+# this is a try
+```
 
 ## 📁 頁面簡介
 - `index.html`: 首頁 / 自我介紹
